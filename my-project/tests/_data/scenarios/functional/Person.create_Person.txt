@@ -1,0 +1,6 @@
+I WANT TO CREATE PERSON
+
+I see response code is "\Codeception\Util\HttpCode::CREATED" 
+I see response code is "\Codeception\Util\HttpCode::INTERNAL_SERVER_ERROR" 
+I see response code is "\Codeception\Util\HttpCode::INTERNAL_SERVER_ERROR"
+

@@ -1,3 +1,12 @@
 #index:
 #    path: /
 #    controller: App\Controller\DefaultController::index
+app_lucky_number:
+  path: /lucky/number
+  controller: App\Controller\LuckyController::number;
+
+app_create_person:
+  path: /create/person
+  controller: 'App\Controller\PersonController::createPerson'
+  methods: [POST]
+

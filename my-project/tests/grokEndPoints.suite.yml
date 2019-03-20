@@ -1,0 +1,4 @@
+actor: GrokEndPointsTester
+modules:
+    enabled:
+        - \Helper\GrokEndPoints
